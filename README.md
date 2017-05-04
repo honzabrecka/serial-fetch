@@ -1,4 +1,4 @@
-# serial-fetch
+# serial-fetch [![CircleCI](https://circleci.com/gh/honzabrecka/serial-fetch/tree/master.svg?style=svg&circle-token=85f54a95ed82cc06ed715eb5a63819c3e42d87c3)](https://circleci.com/gh/honzabrecka/serial-fetch/tree/master)
 
 > Enqueues parallel requests and runs them serially.
 
