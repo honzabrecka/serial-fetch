@@ -4,3 +4,4 @@ __tests__
 index.ts
 tsconfig.json
 yarn.lock
+circly.yml
