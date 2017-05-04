@@ -1,0 +1,6 @@
+.gitignore
+.npmignore
+__tests__
+index.ts
+tsconfig.json
+yarn.lock
