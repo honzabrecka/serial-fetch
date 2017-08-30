@@ -5,7 +5,7 @@
 ## Install
 
 ```console
-$ npm install serial-fetch
+npm install serial-fetch
 ```
 
 ## Use
@@ -19,11 +19,11 @@ window.fetch = serialFetch(window.fetch)
 ## Build
 
 ```console
-$ yarn tsc
+yarn tsc
 ```
 
 ## Test [![CircleCI](https://circleci.com/gh/honzabrecka/serial-fetch/tree/master.svg?style=svg&circle-token=85f54a95ed82cc06ed715eb5a63819c3e42d87c3)](https://circleci.com/gh/honzabrecka/serial-fetch/tree/master)
 
 ```console
-$ yarn jest
+yarn jest
 ```
